@@ -11,5 +11,6 @@ print(len(myName))
 
 print('What is your age?')  # pergunta a idade
 myAge = input()
+int(myAge)
 
 print('You will be ' + str(int(myAge) + 1) + ' in a year.')
