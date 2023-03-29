@@ -23,3 +23,9 @@ Sempre inclui as seguintes instruções:
     4- Chamada do metodo range()
     5- dois pontos
     6- Na próxima linha, um bloco de código
+
+# MODULOS # 
+Sempre inclui as seguintes instruções:
+    1- A palavra chave import
+    2- O nome do módulo
+    3- Opcionalmente, mais nomes de módulos, desde que estejam separados por vírgulas
