@@ -14,3 +14,11 @@
     - Insert: adiciona em qualquer posição da lista
     - Remove: remove valores da lista
     - Sort: organiza em ordem alfabetica ou por números. Todos precisam ser do mesmo tipo (strings e números não se misturam)
+
+# TUPLAS #
+    - São imutáveis, não podem ser valores modificados, adicionados ou removidos.
+
+# REFERÊNCIA VS LISTA #
+
+# COPY() VS DEEPCOPY() #
+    - Copy(): cria uma duplicata de um valor mutável como uma lista ou um dicionário
