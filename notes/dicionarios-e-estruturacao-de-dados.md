@@ -10,4 +10,6 @@
     - values(): iteração por valores
     - items(): iteração pelos pares chave-valor
     - get(): puxa um dado especifico
-    - setdefault(): define como padrão.
+    - setdefault(): define como padrão
+    - pprint()/pformat(): faz uma apresentação elegante
+    - totalBrought():  iteração pelos pares chave-valor
